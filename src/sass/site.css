@@ -1,0 +1,8 @@
+.tab-content {
+  padding: 10px 20px; }
+  .tab-content td .list-group {
+    margin-bottom: 0; }
+  .tab-content .thumbnail_wrap {
+    display: grid;
+    grid-template-columns: 33.3% 33.3% auto;
+    grid-column-gap: 1%; }

@@ -1,0 +1,17 @@
+.tab-content {
+    padding: 10px 20px;
+
+    td {
+        .list-group {
+            margin-bottom:0;
+        }
+    }
+
+    // photo
+    .thumbnail_wrap {
+        display: grid;
+        grid-template-columns: 33.3% 33.3% auto;
+        grid-column-gap: 1%;
+    }
+}
+
